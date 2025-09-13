@@ -2,12 +2,6 @@
 
 Um script Python para automatizar a criação de sequências de frames para boot animations do Android a partir de vídeos com fundo verde (green screen).
 
-## Sobre o Projeto
-
-Criar uma animação de boot (boot animation) para Android geralmente é um processo manual e tedioso que envolve editar um vídeo, exportar cada frame como uma imagem individual e renomeá-los sequencialmente. Este projeto nasceu da necessidade de automatizar completamente esse fluxo de trabalho.
-
-Este script pega um vídeo com um objeto ou animação em um fundo verde, processa um intervalo de tempo específico, remove o fundo, redimensiona os frames para a resolução desejada e os salva como uma sequência de arquivos PNG com transparência, prontos para serem empacotados em um `bootanimation.zip`.
-
 ## Funcionalidades
 
 - **Extração de Frames:** Extrai frames de arquivos de vídeo comuns (MP4, MKV, etc.).
