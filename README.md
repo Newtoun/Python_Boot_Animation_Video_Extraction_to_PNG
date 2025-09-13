@@ -84,22 +84,3 @@ Após executar o script e obter a pasta `part0`, você precisa finalizar o pacot
    ```
 O arquivo `bootanimation.zip` estará pronto para ser instalado em um dispositivo Android com acesso root.
 
-## Como Contribuir
-
-Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
-
-1. Faça um Fork do Projeto
-2. Crie sua Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Faça o Push para a Branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
-
-## Autor
-
-**Seu Nome** - [@seu-github](https://github.com/seu-github)
-
-Link do Projeto: [https://github.com/seu-usuario/seu-repositorio](https://github.com/seu-usuario/seu-repositorio)
