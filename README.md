@@ -26,7 +26,7 @@ pip install opencv-python numpy
 
 1. **Clone o repositório (ou baixe o script):**
    ```bash
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+   git clone https://github.com/Newtoun/Python_Boot_Animation_Video_Extraction_to_PNG.git
    cd seu-repositorio
    ```
 
