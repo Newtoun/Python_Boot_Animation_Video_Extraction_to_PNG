@@ -80,7 +80,7 @@ Após executar o script e obter a pasta `part0`, você precisa finalizar o pacot
 2. **Crie o arquivo ZIP (sem compressão):**
    No terminal, na pasta que contém `desc.txt` e `part0`, execute:
    ```bash
-   zip -0qry bootanimation.zip desc.txt part0
+   zip ../bootanimation.zip * -0 -r
    ```
 O arquivo `bootanimation.zip` estará pronto para ser instalado em um dispositivo Android com acesso root.
 
